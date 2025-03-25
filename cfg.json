@@ -5,5 +5,5 @@
   "FAKE_NATIVE": true,
 
   "TOTAL_MIN_USD": "20",
-  "CHAIN_MIN_USD": "100"
+  "CHAIN_MIN_USD": "20"
 }
